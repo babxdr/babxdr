@@ -1,4 +1,8 @@
-## Olá, meu nome é Bárbara Khalil!
+## BÁRBARA KHALIL | SOFTWARE DEVELOPER
+
+
+
+
 
 ## STACKS
 
