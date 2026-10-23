@@ -21,8 +21,6 @@
     <td>
       <img
       />
-    </td>
-    <td>
       <br />
       <img
       
