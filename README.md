@@ -1,9 +1,9 @@
-Bárbara Khalil / Software Developer                                                        
-
-<img width="74" height="28" alt="image" src="https://github.com/user-attachments/assets/85626de9-2212-476e-a2ae-58604b30b2d2" /> <img width="107" height="28" alt="image" src="https://github.com/user-attachments/assets/b6c9deec-28c3-463c-95e2-4493634bd904" /><img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/d5fa3edc-b695-45bd-8753-66046be16203" /><img width="42" height="28" alt="image" src="https://github.com/user-attachments/assets/5a14e761-b561-4801-86e3-9e597830c59a" />
+<img width="114" height="28" alt="image" src="https://github.com/user-attachments/assets/1a1d844f-a5c2-44e2-bfc9-90d5f701cdf7" />
 
 
-<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/8570e5ba-68d6-4269-9b2f-031daca4e4da" />
+<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/677584f4-9d05-4402-a077-46c17ce74f73" /><img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/0aafbfe1-0380-4cab-ac3f-3265184bb259" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" />
+          
 
 
 
