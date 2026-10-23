@@ -1,4 +1,4 @@
-## ⚙️ BÁRBARA KHALIL | SOFTWARE DEVELOPER
+## ⚙️ Bárbara Khalil | Software Developer
 
 
 
