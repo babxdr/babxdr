@@ -1,2 +1,2 @@
-<img width="467" height="195" alt="image" src="https://github.com/babxdr-attachments/assets/5051a6b0-bf89-4851-bd76-52ea59b6258a" />
+<img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/2ab403cc-de25-4b31-bd35-34d3320a78e7" />
 
