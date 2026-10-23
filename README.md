@@ -6,7 +6,6 @@
 
 ### ⚙️ GitHub Analytics
 
-<img width="450" height="195" alt="image" src="https://github.com/user-attachments/assets/6e95ce6d-76de-4d5c-914f-41a1753f1d55" />
 
 <table>
   <tr>
